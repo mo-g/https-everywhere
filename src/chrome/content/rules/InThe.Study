@@ -1,0 +1,7 @@
+<ruleset name="InThe.Study">
+        <target host="inthe.study" />
+        <target host="*.inthe.study" />
+
+        <rule from="^http:"
+                to="https:" />
+</ruleset>
